@@ -3,7 +3,7 @@ katz_deli=["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Jo
 
 def line(katz_deli)
   katz_deli.collect do |person|
-    katz_deli.index(person). person
+    "#{katz_deli.index(person)}. #{person}"
   end
 end
 line(katz_deli)
