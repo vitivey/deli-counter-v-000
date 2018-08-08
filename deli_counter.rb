@@ -1,6 +1,6 @@
 # Write your code here.
 def line(katz_deli)
-  if line.nil?
+  if katz_deli.nil?
   end
 end
 
