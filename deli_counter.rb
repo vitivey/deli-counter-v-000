@@ -1,7 +1,6 @@
 # Write your code here.
 katz_deli=["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Joe", "Rachel", "Lindsey"]
 
-
 def line(katz_deli)
   def organize_line(katz_deli)
     katz_deli.collect do |person|
